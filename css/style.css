@@ -169,16 +169,20 @@ h3.journey{
 }
 
 h5{
+	margin-top: 5%;
+	margin-left:15%;
+	margin-right:15%;
 	position:fixed;
+	text-align:justify;
 	font-size:1.5vw;
-	font-weight:100;
-	letter-spacing: 3px;
+	font-weight:150;
+	letter-spacing: 2px;
 
-	color:rgb(138, 107, 131);
+	color:rgb(181, 119, 119);
 }
 
 .butterfly{
-	margin: -450px 0 0 0;
+	margin: -400px 0 0 0;
 	float:right;
 	width:50%;
 	display: flex;
