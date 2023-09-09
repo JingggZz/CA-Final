@@ -75,9 +75,14 @@ div img{
 
 a{
 	text-decoration:none;
-	color:rgb(219, 228, 255);
+	color:rgb(255, 255, 255);
 	
 }
+
+a.postcardlink{
+	color:rgb(174, 103, 103);
+}
+
 
 .center{
 	position: absolute;
@@ -91,6 +96,14 @@ p {
 	margin: 20px auto;
 	letter-spacing: 3px;
 
+}
+
+.postcard{
+	margin-left: 5%;
+	font-size: 1vw;
+	color:rgb(96, 113, 130);
+	font-weight: 200;
+	letter-spacing: 2px;
 }
 
 h2 {
